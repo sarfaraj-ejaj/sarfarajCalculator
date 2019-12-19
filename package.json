@@ -1,0 +1,16 @@
+{
+  "name": "sarfarajcalculator",
+  "version": "1.0.0",
+  "description": "this sarfaraj calculator for testing how plugin is created",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sarfaraj",
+    "calculator",
+    "ionic"
+  ],
+  "author": "sarfaraj",
+  "license": "ISC"
+}
