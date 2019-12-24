@@ -1,4 +1,4 @@
-package cordova-plugin-sarcalculator;
+package cordova.plugin.sarcalculator;
 
 import org.apache.cordova.CordovaPlugin;
 import org.apache.cordova.CallbackContext;
